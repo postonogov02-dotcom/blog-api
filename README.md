@@ -10,9 +10,14 @@
 - SQLite база данных
 - Docker контейнеризация
 
+
 ## Quick Start
 
 ### Локальный запуск (без Docker)
 ```bash
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+
+##  Links
+- **API Documentation**: http://localhost:8000/docs (after running locally)
+- **Author**: [Максим] - Python Backend Developer
