@@ -1,4 +1,4 @@
-## 🔗 Links
-- **Live Demo**: [Add later when deployed]
+## Links
 - **API Documentation**: http://localhost:8000/docs (after running locally)
-- **Author**: [Твое имя] - Python Backend Developer
+- **Author**: [Максим] - Python Backend Developer
+
